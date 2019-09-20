@@ -1,0 +1,12 @@
+h
+h
+h
+h
+play 7S
+discard 9C
+ragequit
+play 8S
+discard JH
+play 7D
+ragequit
+quit

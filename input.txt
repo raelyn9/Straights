@@ -1,0 +1,61 @@
+h
+h
+h
+h
+discard 6C
+play 7S
+discard KC
+discard AS
+discard QS
+play 7H
+play 8S
+ragequit
+play 8D
+play 9S
+ragequit
+deck
+play 6H
+play 6D
+play 8C
+play 6S
+play 10D
+play 5S
+play JS
+play QS
+play 2S
+play AS
+play QD
+play KD
+play 9H
+ragequit
+quit
+
+
+play 7S
+ragequit
+ragequit
+ragequit
+play 7C
+play 6C
+play 5C
+play 4C
+play 8S
+play 4S
+play AC
+play 7D
+play 9D
+play 5D
+play 3S
+play 8H
+discard 3D
+play JH
+play QH
+play 10S
+play KH
+play KS
+ragequit
+play JD
+play 4D
+discard 3H
+deck
+ragequit
