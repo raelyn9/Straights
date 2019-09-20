@@ -1,2 +1,0 @@
-Add textual hint for players about which cards that are legal to play.
-Add textual record of players' moves for each round of the game.
